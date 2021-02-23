@@ -16,12 +16,12 @@ Now I am just trying to make some scripts, the fragment of my code is below:
 let Mass_Koeff = [mkoef1,mkoef2,mkoef3,mkoef4];//--------------------------массив коэффициэнтов, которыми будет определяться напряжение
 //каждой ячейки
 let result_voltage_array = [];
-//------------------------------------------------------------------------описание f. для получения rnd значения для определения (ind)
+//-----------------------------------------------------------------------описание f. для получения rnd значения для определения (ind)
 function getRandomArbitrary(min, max) {
     return Math.random() * (max - min) + min;
   }
 
-//------------------------------------------------------------------------описание f. напряжений ячеек для отдельно взятого часа
+//-----------------------------------------------------------------------описание f. напряжений ячеек для отдельно взятого часа
 function resCellVoltages(Cell_Voltage_Index, Sum_Volt){
   let result = [];
     for(let i = 0; i < 4; i++ ){
@@ -40,7 +40,7 @@ function resCellVoltages(Cell_Voltage_Index, Sum_Volt){
 
   
 
-for (let t = 0; t < Summary_Voltage_Array.length; t++ ){//-------------------цикл расчета напряжений для каждого часа
+for (let t = 0; t < Summary_Voltage_Array.length; t++ ){//----------------цикл расчета напряжений для каждого часа
 
  let some_array = resCellVoltages(Mass_Koeff[ind],Summary_Voltage_Array[t]);
 
