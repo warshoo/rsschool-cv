@@ -4,11 +4,11 @@ phone: +375-44-721-14-50 (A1); email: *fsmf@yandex.by*;    Telegram: *warshoo*; 
 
 For me is important to understand, can I learning via self-education and online,my goal is to became a FrontEnd junior developer.
 
-Now I am in process self-education
+Now I am in process self-education.
 
-I successfully finished Sukhoi State Technical University of Gomel with diploma “electronic engineer”
+I successfully finished Sukhoi State Technical University of Gomel with diploma “electronic engineer”.
 
-My English lanquage level is B1+ , it was cheked with *https://www.efset.org/ru/* test
+My English lanquage level is B1+ , it was cheked with *https://www.efset.org/ru/* test.
 
 Now I am just trying to make some scripts, the fragment of my code is below:
 
